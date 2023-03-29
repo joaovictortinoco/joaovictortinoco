@@ -16,10 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=joaovictortinoco&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=juau_bitor)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+[![](https://gtce.itsvg.in/api?username=juau_tinoco)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joaovictortinoco&icon=0&color=0)](https://visitcount.itsvg.in)
