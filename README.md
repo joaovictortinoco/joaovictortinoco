@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓BSc Computer Engineering<br>👨🏻‍🔬MSc Machine Learning <br>👨🏻‍💻Data Science / DevOps<br>👨🏻‍💼Partner at Mobix Software Studio<br>👨🏻‍🏫Computer Science Teacher<br><br>
+👨🏻‍🎓BSc Computer Engineering<br>👨🏻‍🔬MSc Machine Learning <br>👨🏻‍💻Data Science / DevOps<br>👨🏻‍💼Tech Lead at @justapagamentos<br>👨🏻‍🏫Computer Science Teacher<br><br>
 
 
 ## 🌐 Socials:
