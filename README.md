@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓BSc Computer Engineering<br>👨🏻‍🔬MSc Machine Learning <br>👨🏻‍💻Data Science / Dev|ML|Data|Sec|Ops / SRE <br>👨🏻‍💼Tech Lead at @justapagamentos<br>👨🏻‍🏫Computer Science Teacher<br><br>
+👨🏻‍🎓BSc Computer Engineering<br>👨🏻‍🔬MSc Machine Learning <br>👨🏻‍💻Data Science | Data Engineering | Tech Manager | DevOps | MLOps| DataOps | SRE<br>[Contact me](mailto:joaovictortinoco@gmail.com)
 
 
 ## 🌐 Socials:
